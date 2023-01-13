@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r1hOGuH+3lgoRnfXpChp/GOS07pYePYx2WtOU8eAhVo=",
+  "Source": "EmailVerification",
+  "BasePath": "_content/EmailVerification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
